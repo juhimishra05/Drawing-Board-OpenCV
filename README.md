@@ -63,7 +63,7 @@ You can toggle between different **colors** and an **eraser** by moving your fin
 - MediaPipe
 - Numpy
 
-#### Buy me a coffee 🥹:
+
 
 
 
