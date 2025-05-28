@@ -5,7 +5,7 @@ This real-time gesture-based drawing app is powered by **MediaPipe** and **OpenC
 
 ## 🖼 Demo
 
-![Demo](assets/demo.mp4)
+![Demo](assets/demo.gif)
 
 
 ## 🧠 How It Works
